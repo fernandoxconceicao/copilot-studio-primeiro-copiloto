@@ -102,7 +102,7 @@ Exemplo: Criar um tópico chamado **"Horário de Atendimento"**
 
 Feito com ❤️ por Fernando Conceição
 
-- Instagram: [@seuusuario](https://instagram.com/fernando__conceicaoo)
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/fernandoxconceicao)
+- Instagram: [@fernando__conceicaoo](https://instagram.com/fernando__conceicaoo)
+- LinkedIn: [linkedin.com/in/fernandoxconceicao](https://linkedin.com/in/fernandoxconceicao)
 
 ---
